@@ -1,0 +1,3 @@
+# Ignore .odt and .docx files
+*.odt
+*.docx
